@@ -13,3 +13,7 @@ Due to the extensive reach of online platforms, biased and inaccurate content ha
 The main dataset for this project will come from Politifact, a nonprofit organization based in the United States that specializes in analyzing assertions made by prominent personalities on internet. A special "Truth-O-Meter" grading system, which goes from "True" to "Pants on Fire," is used by Politifact to assess the veracity and context of the claims. The varied Politifact dataset includes a range of ratings, including: TRUE, MOSTLY TRUE, HALF TRUE, MOSTLY FALSE, FALSE, PANTS ON FIRE.
 
 Source: https://www.kaggle.com/datasets/rmisra/politifact-fact-check-dataset
+
+## Bert Model
+
+Model that is created in textclassificationmodel2.ipynb can be found in : https://drive.google.com/drive/folders/1srKfhxSevgW_xF87vKRFDyAyTgawGhgl?usp=sharing
